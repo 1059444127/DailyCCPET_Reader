@@ -1,0 +1,15 @@
+C:\Users\cradeloso\Documents\Visual Studio 2010\Projects\DailyCCPET_Reader\DailyCCPET_Reader\bin\Release\DailyCCPET_Reader.exe
+C:\Users\cradeloso\Documents\Visual Studio 2010\Projects\DailyCCPET_Reader\DailyCCPET_Reader\bin\Release\DailyCCPET_Reader.pdb
+C:\Users\cradeloso\Documents\Visual Studio 2010\Projects\DailyCCPET_Reader\DailyCCPET_Reader\bin\Release\DailyCCPET_Reader.xml
+C:\Users\cradeloso\Documents\Visual Studio 2010\Projects\DailyCCPET_Reader\DailyCCPET_Reader\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\cradeloso\Documents\Visual Studio 2010\Projects\DailyCCPET_Reader\DailyCCPET_Reader\obj\x86\Release\WindowsApplication1.Form1.resources
+C:\Users\cradeloso\Documents\Visual Studio 2010\Projects\DailyCCPET_Reader\DailyCCPET_Reader\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\cradeloso\Documents\Visual Studio 2010\Projects\DailyCCPET_Reader\DailyCCPET_Reader\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\cradeloso\Documents\Visual Studio 2010\Projects\DailyCCPET_Reader\DailyCCPET_Reader\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\cradeloso\Documents\Visual Studio 2010\Projects\DailyCCPET_Reader\DailyCCPET_Reader\obj\x86\Release\DailyCCPET_Reader.exe
+C:\Users\cradeloso\Documents\Visual Studio 2010\Projects\DailyCCPET_Reader\DailyCCPET_Reader\obj\x86\Release\DailyCCPET_Reader.xml
+C:\Users\cradeloso\Documents\Visual Studio 2010\Projects\DailyCCPET_Reader\DailyCCPET_Reader\obj\x86\Release\DailyCCPET_Reader.pdb
+C:\Users\cradeloso\documents\visual studio 2010\Projects\DailyCCPET_Reader\DailyCCPET_Reader\bin\Release\DailyCCPET_Reader.exe.manifest
+C:\Users\cradeloso\documents\visual studio 2010\Projects\DailyCCPET_Reader\DailyCCPET_Reader\bin\Release\DailyCCPET_Reader.application
+C:\Users\cradeloso\documents\visual studio 2010\Projects\DailyCCPET_Reader\DailyCCPET_Reader\obj\x86\Release\DailyCCPET_Reader.exe.manifest
+C:\Users\cradeloso\documents\visual studio 2010\Projects\DailyCCPET_Reader\DailyCCPET_Reader\obj\x86\Release\DailyCCPET_Reader.application
